@@ -14,3 +14,4 @@
 14. Righteous Fire Jugg PoE Build Guide
 15. Cyclone Jugg PoE Build Guide                - https://poe.ninja/builds/settlersssf/character/Demigod47%235749/AlbeSSFS
 16. Aurabot CI Vaal Molten Shell Ascendant      - https://pobb.in/zNleHWnA6mgg ( 400 divs )
+17. Ice Nova of Frostbolts PoE Build Guide
