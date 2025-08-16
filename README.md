@@ -16,6 +16,7 @@
 16. Aurabot CI Vaal Molten Shell Ascendant      - https://pobb.in/zNleHWnA6mgg ( 400 divs ) ( not for new ones )
 
 ** Exotic builds, a bit "Next level" **
+
 17. Ice Nova of Frostbolts PoE Build Guide
 18. Explosive Arrow Slayer PoE Build Guide
 19. Explosive Arrow Totem Ocultist PoE Build Guide
