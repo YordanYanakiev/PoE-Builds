@@ -21,3 +21,11 @@
 18. Explosive Arrow Slayer PoE Build Guide
 19. Explosive Arrow Totem Ocultist PoE Build Guide
 20. Cyclone Mjolner Ball Light Hierophant
+
+
+--------
+Duelist related ( questionable for newbies )
+
+Lacerate of Haemorrhage Gladiator
+SwordStorm Gladiator
+Dual Strike Gladiator
