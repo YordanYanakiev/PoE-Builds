@@ -1,3 +1,8 @@
+Copy each line, paste it to Youtube.
+Spean couple of minutes to see the build in action in 2 different videos.
+Move to next line.
+When You decide one and wish to go for real build - PM "Tyr" in game
+Beginer Friendly
 1. Cyclone Slayer PoE Build Guide               
 2. Boneshatter Jugg  PoE Build Guide
 3. Tornado Shot DeadEye PoE Build Guide         
@@ -14,18 +19,15 @@
 14. Righteous Fire Jugg PoE Build Guide
 15. Cyclone Jugg PoE Build Guide               
 16. Aurabot CI Vaal Molten Shell Ascendant      - https://pobb.in/zNleHWnA6mgg ( 400 divs ) ( not for new ones )
-
-** Exotic builds, a bit "Next level" **
-
 17. Ice Nova of Frostbolts PoE Build Guide
 18. Explosive Arrow Slayer PoE Build Guide
 19. Explosive Arrow Totem Ocultist PoE Build Guide
 20. Cyclone Mjolner Ball Light Hierophant
 
+21. Lacerate of Haemorrhage Gladiator
+22. SwordStorm Gladiator
+23. Dual Strike Gladiator
 
 --------
 Duelist related ( questionable for newbies )
 
-Lacerate of Haemorrhage Gladiator
-SwordStorm Gladiator
-Dual Strike Gladiator
