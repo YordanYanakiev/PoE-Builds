@@ -1,6 +1,6 @@
 Copy each line, paste it to Youtube.
-Spean couple of minutes to see the build in action in 2 different videos.
-Move to next line.
+Spend couple of minutes to see the build in action in 2 different videos.
+Move to next line. Repeat.
 When You decide one and wish to go for real build - PM "Tyr" in game
 Beginer Friendly
 1. Cyclone Slayer PoE Build Guide               
