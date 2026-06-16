@@ -23,10 +23,11 @@ Beginer Friendly
 18. Explosive Arrow Slayer PoE Build Guide
 19. Explosive Arrow Totem Ocultist PoE Build Guide
 20. Cyclone Mjolner Ball Light Hierophant
-
-21. Lacerate of Haemorrhage Gladiator
-22. SwordStorm Gladiator
-23. Dual Strike Gladiator
+21. Arc, Ball Light, Cracking Lance Spellsigner Elementalist
+    
+22. Lacerate of Haemorrhage Gladiator
+23. SwordStorm Gladiator
+24. Dual Strike Gladiator
 
 --------
 Duelist related ( questionable for newbies )
