@@ -1,8 +1,9 @@
 Copy each line, paste it to Youtube.
 Spend couple of minutes to see the build in action in 2 different videos.
 Move to next line. Repeat.
-When You decide one and wish to go for real build - PM "Tyr" in game
-Beginer Friendly
+When You decide one and wish to go for real build - PM "Tyr" in game.
+
+Beginer Friendly:
 1. Cyclone Slayer PoE Build Guide               
 2. Boneshatter Jugg  PoE Build Guide
 3. Tornado Shot DeadEye PoE Build Guide         
